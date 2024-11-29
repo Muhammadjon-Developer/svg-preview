@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  color: #45d6b5;
+  background: #1c1b2a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+svg {
+  width: 200px;
+}
